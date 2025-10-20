@@ -1,0 +1,7 @@
+.env
+variables/credentials.yaml
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.DS_Store

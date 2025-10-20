@@ -1,0 +1,72 @@
+{"level":30,"time":"2025-10-19T12:04:16.265Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Listening on 59900"}
+(node:86773) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-10-19T12:04:17.308Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:17.308Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:17.321Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-10-19T12:04:17.639Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Adding browser to stack: chromium, version: 125.0.6422.26"}
+{"level":30,"time":"2025-10-19T12:04:17.639Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-10-19T12:04:17.639Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-10-19T12:04:17.641Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-10-19T12:04:17.641Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Trace file: "}
+{"level":30,"time":"2025-10-19T12:04:17.641Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method newContext"}
+{"level":30,"time":"2025-10-19T12:04:17.646Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Changed active context"}
+{"level":30,"time":"2025-10-19T12:04:17.646Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method newContext"}
+{"level":30,"time":"2025-10-19T12:04:17.649Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-10-19T12:04:17.649Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-10-19T12:04:17.815Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Video path: undefined"}
+{"level":30,"time":"2025-10-19T12:04:17.815Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Changed active page"}
+{"level":30,"time":"2025-10-19T12:04:20.889Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method newPage"}
+{"level":30,"time":"2025-10-19T12:04:20.897Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:20.904Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:20.915Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-10-19T12:04:20.916Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Strict mode is enabled, find Locator with css=#username in page."}
+{"level":30,"time":"2025-10-19T12:04:20.949Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-10-19T12:04:20.960Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-10-19T12:04:20.960Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Strict mode is enabled, find Locator with css=#username in page."}
+{"level":30,"time":"2025-10-19T12:04:21.013Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method fillText"}
+{"level":30,"time":"2025-10-19T12:04:21.017Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-10-19T12:04:21.017Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2025-10-19T12:04:21.051Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method fillText"}
+{"level":30,"time":"2025-10-19T12:04:21.057Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method click"}
+{"level":30,"time":"2025-10-19T12:04:21.057Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Strict mode is enabled, find Locator with css=button[type=\"submit\"] in page."}
+{"level":30,"time":"2025-10-19T12:04:21.456Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method click"}
+{"level":30,"time":"2025-10-19T12:04:21.458Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-10-19T12:04:21.458Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Strict mode is enabled, find Locator with css=.flash.success in page."}
+{"level":30,"time":"2025-10-19T12:04:21.467Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-10-19T12:04:21.469Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method getText"}
+{"level":30,"time":"2025-10-19T12:04:21.469Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Strict mode is enabled, find Locator with css=.flash.success in page."}
+{"level":30,"time":"2025-10-19T12:04:21.479Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Retrieved text for element css=.flash.success containing  You logged into a secure area!\n×"}
+{"level":30,"time":"2025-10-19T12:04:21.479Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method getText"}
+{"level":30,"time":"2025-10-19T12:04:21.481Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2025-10-19T12:04:21.481Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","Take screenshot with options: ":{"path":"/Users/burakturkpencesi/Projects/test-automation-portfolio/sap-fiori-login-tests/browser/screenshot/682ae81392d74fd1b2ac1046d1bbdddb.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2025-10-19T12:04:21.524Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2025-10-19T12:04:21.526Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:21.527Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:21.528Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:21.528Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:21.530Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2025-10-19T12:04:21.530Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","Take screenshot with options: ":{"path":"/Users/burakturkpencesi/Projects/test-automation-portfolio/sap-fiori-login-tests/browser/screenshot/63c00d5515904d5992ef9fe5de03325f.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2025-10-19T12:04:21.568Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2025-10-19T12:04:21.571Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:21.572Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:21.573Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2025-10-19T12:04:21.575Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Removed page=854f2ab2-8e3b-40d3-affd-8370bf533ac6 from context=00a75bd9-ed7c-4eb4-8f46-a436171b481a page stack"}
+{"level":30,"time":"2025-10-19T12:04:21.591Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/Browser/wrapper/index.js:10062:15)
+    at PlaywrightServer.getActiveBrowser (/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/Browser/wrapper/index.js:10678:59)
+    at PlaywrightServer.setTimeout (/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/Browser/wrapper/index.js:10915:57)
+    at Object.onReceiveHalfClose (/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/Browser/wrapper/node_modules/@grpc/grpc-js/build/src/server.js:1273:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/Browser/wrapper/node_modules/@grpc/grpc-js/build/src/server-interceptors.js:564:31)
+    at BaseServerInterceptingCall.handleEndEvent (/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/Browser/wrapper/node_modules/@grpc/grpc-js/build/src/server-interceptors.js:604:14)
+    at ServerHttp2Stream.<anonymous> (/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/Browser/wrapper/node_modules/@grpc/grpc-js/build/src/server-interceptors.js:372:18)
+    at ServerHttp2Stream.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+=============================================================
+{"level":30,"time":"2025-10-19T12:04:21.593Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:21.593Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-19T12:04:21.607Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-10-19T12:04:21.607Z","pid":86773,"hostname":"Burak-MacBook-Pro.local","msg":"End of node method closeAllBrowsers"}
