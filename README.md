@@ -36,3 +36,6 @@ robot -v PROFILE:demo tests
 # SAP (update selectors + credentials)
 robot -v PROFILE:sap tests
 ```
+=======
+# sap-fiori-login-tests
+Test automation framework for SAP FIORI and web applications using Robot Framework and Browser Library (Playwright)
